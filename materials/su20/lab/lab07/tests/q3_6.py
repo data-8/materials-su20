@@ -14,16 +14,16 @@ test = {
         },
         {
           'code': r"""
-          >>> rate_means.where("Death Penalty", False).column(1).item(0)
-          8.120454540452272
+          >>> round(rate_means.where("Death Penalty", False).column(1).item(0), 4)
+          8.1204
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> rate_means.where("Death Penalty", True).column(1).item(0)
-          7.513636380386362
+          >>> round(rate_means.where("Death Penalty", True).column(1).item(0), 4)
+          7.5136
           """,
           'hidden': False,
           'locked': False
