@@ -1,0 +1,15 @@
+{
+  "name": "Final Project: Contraceptive Prevalence",
+  "endpoint": "cal/data8/su20/contraceptives",
+  "src": [
+    "contraceptives-final-project.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Final Project: California Police Scorecard",
+  "endpoint": "cal/data8/su20/PoliceScorecard",
+  "src": [
+    "police-scorecard-final-project.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

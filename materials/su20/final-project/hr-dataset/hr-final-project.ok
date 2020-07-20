@@ -1,0 +1,15 @@
+{
+  "name": "Final Project: Human Resources",
+  "endpoint": "cal/data8/su20/hr",
+  "src": [
+    "hr-final-project.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

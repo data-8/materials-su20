@@ -1,0 +1,158 @@
+Agency Name,Type of Agency,County,Region,Overall Score,Police Violence Score,Police Accountability Score,Approach to Policing Score,"People Killed or Seriously Injured by Police, 2016-2018",Percent who Did Not Reportedly Have a Gun,Percent Who were Confirmed Unarmed,People Deadly Force Used Against Who were Perceived to Have a Gun,People Deadly Force Used Against Who were Confirmed with a Gun,2016 Police Shootings,2017 Police Shootings,2018 Police Shootings,"Total Arrests, 2016-2018",Homicides (2013-2018),percent_police_budget,Log of Police Budget,"Asian/Pacific Islander Drug Possession Arrests, 2016","Black Drug Possession Arrests, 2016","Hispanic Drug Possession Arrests, 2016","Unknown Race Drug Possession Arrests, 2016","Other Race Drug Possession Arrests, 2016","White Drug Possession Arrests, 2016"
+Alameda County Sheriff's Department,Sheriff's Department,Alameda County,Northern,0.35,0.08,0.63,0.32,28,0.93,0.86,3,2,0,0,0,15573,36,0.123490275,8.559538055,93,329,628,3,16,956
+Alameda Police Department,Police Department,Alameda County,Northern,0.74,0.72,0.61,0.9,1,1,0,0,0,0,0,0,3581,5,0.122769869,7.504172041,9,17,25,2,7,49
+Alhambra Police Department,Police Department,Los Angeles County,Southern,0.56,0.47,0.43,0.78,2,0.5,0,1,1,1,2,0,3911,10,0.188269063,7.395901431,11,12,214,1,8,34
+Alpine County Sheriff's Department,Sheriff's Department,Alpine County,Northern,0.82,0.75,1,0.71,0,0,0,0,0,0,0,0,37,0,0.170420117,6.487720534,0,0,0,2,1,4
+Amador County Sheriff's Department,Sheriff's Department,Amador County,Northern,0.79,0.85,0.79,0.73,0,0,0,0,0,0,0,0,1476,5,0.188518837,7.15304278,0,1,6,1,4,39
+Anaheim Police Department,Police Department,Orange County,Southern,0.51,0.36,0.39,0.77,16,0.81,0.63,9,3,5,2,4,28200,67,0.117904784,8.185034916,56,128,1253,1,90,652
+Antioch Police Department,Police Department,Contra Costa County,Northern,0.44,0.38,0.4,0.52,8,0.5,0.38,7,4,2,4,1,10115,54,0.329937131,7.568849033,3,153,65,0,7,169
+Bakersfield Police Department,Police Department,Kern County,Central,0.23,0.09,0.26,0.33,67,0.88,0.63,14,8,4,3,2,51337,167,0.175546656,7.940708379,44,754,1560,1,48,2656
+Berkeley Police Department,Police Department,Alameda County,Northern,0.52,0.77,0.12,0.67,0,0,0,0,0,0,0,0,7487,12,0.162949492,7.809610763,12,255,76,4,17,194
+Beverly Hills Police Department,Police Department,Los Angeles County,Southern,0.29,0.26,0.46,0.17,2,1,1,0,0,0,0,0,4031,1,0.156822694,7.879924413,2,41,25,0,3,52
+Buena Park Police Department,Police Department,Orange County,Southern,0.64,0.92,0.34,0.64,0,0,0,0,0,0,0,0,8899,6,0.193224867,7.4111765,33,51,377,5,13,422
+Burbank Police Department,Police Department,Los Angeles County,Southern,0.59,0.64,0.51,0.63,1,1,1,0,0,1,0,0,10126,2,0.100942405,7.724410455,9,42,297,0,32,482
+Butte County Sheriff's Department,Sheriff's Department,Butte County,Northern,0.61,0.79,0.63,0.43,3,0.67,0,3,1,0,1,2,7612,31,0.117308033,7.692128736,25,30,52,3,24,629
+Calaveras County Sheriff's Department,Sheriff's Department,Calaveras County,Northern,0.51,0.29,0.46,0.77,2,0.5,0.5,1,1,1,0,1,2860,18,0.136876461,7.141721334,3,6,19,1,3,112
+Carlsbad Police Department,Police Department,San Diego County,Southern,0.81,0.73,0.81,0.9,0,0,0,0,0,0,0,0,5554,3,0.127430411,7.543877955,4,7,78,0,7,265
+Chico Police Department,Police Department,Butte County,Northern,0.34,0.41,0.19,0.42,4,1,0.5,0,0,0,2,0,11778,9,0.244515413,7.374464092,5,28,29,0,11,435
+Chino Police Department,Police Department,San Bernardino County,Central,0.56,0.74,0.34,0.61,2,0,0,2,2,2,0,0,8896,9,0.193274116,7.562056127,3,31,628,0,13,267
+Chula Vista Police Department,Police Department,San Diego County,Southern,0.71,0.72,0.53,0.88,1,1,0,0,0,0,1,0,12873,24,0.210494329,7.797392007,24,107,565,0,17,314
+Citrus Heights Police Department,Police Department,Sacramento County,Northern,0.47,0.58,0.26,0.56,8,0.75,0.13,5,2,2,2,0,6597,18,0.399341703,7.304727666,4,36,45,2,12,346
+Clovis Police Department,Police Department,Fresno County,Central,0.39,0.47,0.39,0.3,4,1,0.5,0,0,1,0,0,11238,5,0.165169822,7.512394992,11,31,241,2,22,501
+Colusa County Sheriff's Department,Sheriff's Department,Colusa County,Northern,0.61,0.95,0.27,0.61,0,0,0,0,0,0,0,0,1724,3,0.172558172,7.027876029,2,0,28,0,3,31
+Concord Police Department,Police Department,Contra Costa County,Northern,0.57,0.91,0.1,0.7,1,1,0,0,0,1,0,0,8544,17,0.300151169,7.763272653,8,91,217,0,21,433
+Contra Costa County Sheriff's Department,Sheriff's Department,Contra Costa County,Northern,0.57,0.44,0.77,0.5,12,0.83,0.75,3,2,1,0,2,15044,46,0.09679902,8.475292363,2,128,176,10,55,639
+Corona Police Department,Police Department,Riverside County,Central,0.48,0.37,0.34,0.75,4,0.5,0.25,2,2,2,2,1,11969,24,0.14869455,7.676135169,16,34,498,2,3,327
+Costa Mesa Police Department,Police Department,Orange County,Southern,0.7,0.84,0.64,0.63,1,1,1,0,0,0,0,1,14972,7,0.267746566,7.648188104,12,65,261,0,28,1015
+Culver City Police Department,Police Department,Los Angeles County,Southern,0.68,0.83,0.61,0.59,1,1,0,0,0,0,0,1,5277,1,0.181952041,7.594492957,1,43,83,0,13,95
+Daly City Police Department,Police Department,San Mateo County,Northern,0.61,0.63,0.41,0.78,1,1,1,0,0,1,0,0,6255,6,0.218973641,7.519372888,166,111,142,2,17,188
+Del Norte County Sheriff's Department,Sheriff's Department,Del Norte County,Northern,0.56,0.81,0.27,0.61,1,1,0,0,0,0,0,1,1691,7,0.118680609,6.945096814,0,0,4,1,10,73
+Downey Police Department,Police Department,Los Angeles County,Southern,0.58,0.47,0.51,0.78,2,1,1,0,0,0,0,0,8183,26,0.264892937,7.569518607,3,27,315,2,4,93
+El Cajon Police Department,Police Department,San Diego County,Southern,0.43,0.53,0.32,0.43,6,1,0.5,0,0,2,1,0,11830,15,0.282661921,7.507444378,6,123,99,1,40,389
+El Dorado County Sheriff's Department,Sheriff's Department,El Dorado County,Northern,0.63,0.82,0.31,0.76,1,0,0,1,1,1,0,0,8930,22,0.187220596,7.800512926,11,19,67,0,15,660
+El Monte Police Department,Police Department,Los Angeles County,Southern,0.5,0.6,0.28,0.61,2,1,0,0,0,1,1,0,8544,27,0.23387642,7.441229256,1,3,117,1,0,4
+Elk Grove Police Department,Police Department,Sacramento County,Northern,0.63,0.29,0.6,0.99,5,0.4,0.2,4,3,1,1,2,4964,7,0.195508561,7.566648554,31,41,6,1,8,126
+Escondido Police Department,Police Department,San Diego County,Southern,0.74,0.83,0.71,0.69,2,0,0,2,2,0,1,1,14510,27,0.168587362,7.635550454,20,59,401,2,14,345
+Fairfield Police Department,Police Department,Solano County,Northern,0.43,0.53,0.32,0.44,2,1,0.5,1,0,1,0,1,11994,38,0.163782731,7.576356809,24,304,108,2,17,317
+Fontana Police Department,Police Department,San Bernardino County,Central,0.56,0.42,0.59,0.65,10,1,0.6,0,0,0,1,1,16090,46,0.251338681,7.778335251,9,137,952,3,8,321
+Fremont Police Department,Police Department,Alameda County,Northern,0.57,0.1,0.66,0.96,11,0.73,0.55,4,3,1,4,2,7512,9,0.228525095,7.895444796,56,87,165,1,11,308
+Fresno County Sheriff's Department,Sheriff's Department,Fresno County,Central,0.31,0.43,0.15,0.35,4,0.5,0.25,1,2,3,2,1,13401,63,0.130344758,8.366264154,18,61,400,0,7,299
+Fresno Police Department,Police Department,Fresno County,Central,0.55,0.54,0.58,0.53,23,0.65,0.35,12,8,9,5,6,60648,253,0.191746146,8.197783026,75,236,825,0,24,508
+Fullerton Police Department,Police Department,Orange County,Southern,0.53,0.57,0.44,0.59,6,1,0.67,0,0,1,0,1,17712,9,0.204222549,7.643925918,51,69,846,2,18,898
+Garden Grove Police Department,Police Department,Orange County,Southern,0.69,0.55,0.82,0.69,6,1,0.5,0,0,0,0,3,15813,27,0.201397053,7.751208456,187,56,556,2,25,472
+Gardena Police Department,Police Department,Los Angeles County,Southern,0.52,0.4,0.71,0.46,5,0.6,0,3,2,0,3,3,5424,21,0.251790942,7.429364632,1,118,153,1,9,38
+Glendale Police Department,Police Department,Los Angeles County,Southern,0.39,0.53,0.07,0.57,3,0.67,0.33,2,1,1,1,1,19180,11,0.120232254,7.916810618,38,66,473,0,145,819
+Glenn County Sheriff's Department,Sheriff's Department,Glenn County,Northern,0.44,0.49,0.36,0.48,1,1,1,0,0,0,0,1,2192,3,0.148942428,7.072458978,0,2,8,1,3,53
+Hawthorne Police Department,Police Department,Los Angeles County,Southern,0.52,0.55,0.28,0.72,2,0.5,0.5,1,1,1,0,0,6464,30,0.366710039,7.588988099,3,43,114,1,7,29
+Hayward Police Department,Police Department,Alameda County,Northern,0.45,0.23,0.5,0.62,7,0.71,0.29,2,2,2,3,2,10749,45,0.217122232,7.835786524,79,155,493,6,37,260
+Humboldt County Sheriff's Department,Sheriff's Department,Humboldt County,Northern,0.37,0.41,0.2,0.49,2,0,0,2,2,2,2,0,3243,36,0.101285937,7.576376311,0,4,8,2,29,151
+Huntington Beach Police Department,Police Department,Orange County,Southern,0.48,0.62,0.13,0.7,8,0.75,0.25,3,2,0,6,1,18109,8,0.286955953,7.837360791,15,23,233,3,8,870
+Imperial County Sheriff's Department,Sheriff's Department,Imperial County,Southern,0.57,0.99,0.44,0.27,0,0,0,0,0,0,0,0,5165,8,0.098579996,7.64021579,2,16,347,0,9,133
+Inglewood Police Department,Police Department,Los Angeles County,Southern,0.59,0.65,0.49,0.64,3,0,0,3,3,1,0,1,4157,85,0.247287383,7.79899926,1,32,39,0,0,5
+Inyo County Sheriff's Department,Sheriff's Department,Inyo County,Central,0.61,0.57,0.83,0.41,1,0,0,1,1,1,0,0,1290,0,0.176596102,7.127908018,0,1,3,0,11,26
+Irvine Police Department,Police Department,Orange County,Southern,0.67,0.85,0.23,0.92,0,0,0,0,0,0,0,0,8116,9,0.189727785,7.884140961,51,35,276,3,50,680
+Kern County Sheriff's Department,Sheriff's Department,Kern County,Central,0.38,0.64,0.27,0.22,5,0.4,0.4,4,3,2,0,2,32213,206,0.125193004,8.358244215,12,71,708,0,594,874
+Kings County Sheriff's Department,Sheriff's Department,Kings County,Central,0.48,0.46,0.79,0.21,2,1,0.5,1,0,0,0,1,6388,19,0.130914773,7.578078482,12,47,350,2,33,202
+Lake Sheriff's Department,Sheriff's Department,Lake County,Northern,0.6,0.48,0.74,0.57,3,0.67,0.67,1,1,0,0,1,4916,21,0.151431381,7.326211803,6,14,50,0,36,323
+Lassen Sheriff's Department,Sheriff's Department,Lassen County,Northern,0.77,1,0.46,0.84,0,0,0,0,0,0,0,0,978,3,0.181425136,7.072546485,0,1,0,6,3,34
+Livermore Police Department,Police Department,Alameda County,Northern,0.64,0.66,0.55,0.7,2,0.5,0,1,1,0,2,0,6293,4,0.184816826,7.542845648,11,32,109,3,8,383
+Long Beach Police Department,Police Department,Los Angeles County,Southern,0.29,0.18,0.21,0.48,49,0.82,0.59,14,9,8,8,4,39927,178,0.114613088,8.377191468,22,557,676,1,66,535
+Los Angeles County Sheriff's Department,Sheriff's Department,Los Angeles County,Southern,0.25,0.11,0.19,0.45,125,0.78,0.48,41,27,32,23,22,101999,479,0.131965513,9.509976823,38,1756,8586,40,291,3214
+Los Angeles Police Department,Police Department,Los Angeles County,Southern,0.38,0.35,0.12,0.68,166,0.69,0.42,64,51,40,45,33,325530,1625,0.169849755,9.198180002,12,1412,2265,0,293,1467
+Madera Sheriff's Department,Sheriff's Department,Madera County,Northern,0.53,0.96,0.11,0.52,0,0,0,0,0,0,0,0,3052,20,0.153924133,7.599974832,1,4,46,1,5,59
+Marin County Sheriff's Department,Sheriff's Department,Marin County,Northern,0.65,0.82,0.27,0.84,0,0,0,0,0,0,0,0,2748,13,0.126903706,7.854853157,2,18,22,1,9,85
+Mariposa County Sheriff's Department,Sheriff's Department,Mariposa County,Northern,0.5,0.59,0.19,0.71,1,1,0,1,0,0,1,0,1570,0,0.128856562,7.008012753,0,1,14,2,5,87
+Mendocino County Sheriff's Department,Sheriff's Department,Mendocino County,Northern,0.48,0.37,0.59,0.49,4,0.25,0.25,3,3,1,1,1,5078,29,0.118629106,7.473054314,2,15,48,0,28,268
+Merced County Sheriff's Department,Sheriff's Department,Merced County,Northern,0.67,0.8,0.73,0.49,2,0.5,0,2,1,1,1,1,6506,56,0.107655322,7.781480785,1,8,102,0,0,80
+Merced Police Department,Police Department,Merced County,Northern,0.61,0.79,0.8,0.25,2,0.5,0,1,1,0,3,0,11376,39,0.154495219,7.328167747,27,71,298,0,3,250
+Milpitas Police Department,Police Department,Santa Clara County,Northern,0.44,0.5,0.2,0.62,1,1,1,1,0,1,0,0,4973,6,0.182447332,7.445310854,89,55,158,1,6,117
+Modesto Police Department,Police Department,Stanislaus County,Northern,0.43,0.69,0.15,0.45,6,0.67,0.17,3,2,3,2,0,27489,99,0.155442338,7.771817258,24,195,400,1,27,993
+Modoc County Sheriff's Department,Sheriff's Department,Modoc County,Northern,0.54,0.15,0.9,0.58,2,0.5,0.5,1,1,1,0,0,636,2,0.119044311,6.549245859,1,0,1,3,1,12
+Mono County Sheriff's Department,Sheriff's Department,Mono County,Northern,0.8,0.66,1,0.73,0,0,0,0,0,0,0,0,171,1,0.167290203,6.997924288,0,0,4,0,3,11
+Monterey County Sheriff's Department,Sheriff's Department,Monterey County,Northern,0.6,0.61,0.71,0.47,1,0,0,1,1,1,1,0,3998,44,0.106263064,8.093346083,3,3,88,0,1,63
+Mountain View Police Department,Police Department,Santa Clara County,Northern,0.72,0.78,0.53,0.85,0,0,0,0,0,0,0,0,4989,2,0.11439692,7.530520868,12,35,140,2,10,137
+Murrieta Police Department,Police Department,Riverside County,Central,0.37,0.19,0.03,0.88,8,0.88,0.75,1,1,1,1,0,6180,5,0.271456188,7.401275094,18,54,174,7,21,422
+Napa County Sheriff's Department,Sheriff's Department,Napa County,Northern,0.48,0.42,0.33,0.69,3,0.33,0.33,2,2,0,1,1,2658,5,0.142479386,7.759316483,13,23,50,8,5,173
+National City Police Department,Police Department,San Diego County,Southern,0.47,0.55,0.3,0.56,1,1,1,0,0,0,0,0,5929,13,0.236298068,7.4101515,61,52,268,0,10,88
+Nevada County Sheriff's Department,Sheriff's Department,Nevada County,Northern,0.58,0.65,0.43,0.65,2,0.5,0,1,1,1,0,1,3056,15,0.178565146,7.48856703,1,4,8,1,0,194
+Newport Beach Police Department,Police Department,Orange County,Southern,0.28,0.38,0.08,0.38,4,1,0.75,0,0,0,1,0,9453,6,0.19450579,7.750678963,16,28,153,0,33,556
+Oakland Police Department,Police Department,Alameda County,Northern,0.58,0.74,0.41,0.6,3,0.33,0.33,2,2,0,1,1,30026,479,0.181993354,8.476529556,15,656,145,1,9,84
+Oceanside Police Department,Police Department,San Diego County,Southern,0.61,0.58,0.61,0.63,3,1,0.67,1,0,0,1,0,13425,49,0.155017299,7.771615059,19,55,224,0,8,304
+Ontario Police Department,Police Department,San Bernardino County,Central,0.43,0.54,0.23,0.53,10,0.8,0.8,2,2,1,1,1,21971,40,0.235850153,8.016707342,28,111,1159,2,14,435
+Orange County Sheriff's Department,Sheriff's Department,Orange County,Southern,0.37,0.08,0.45,0.57,41,0.85,0.76,6,6,2,0,2,10833,9,0.171816129,8.893091445,58,80,989,19,53,1922
+Orange Police Department,Police Department,Orange County,Southern,0.65,0.88,0.51,0.55,1,1,0,0,0,0,1,0,13603,19,0.216417203,7.640190511,20,47,549,1,22,633
+Oxnard Police Department,Police Department,Ventura County,Southern,0.66,0.65,0.72,0.6,3,1,0.67,0,0,3,0,1,25675,79,0.163463603,7.854127483,41,100,1642,4,5,316
+Palm Springs Police Department,Police Department,Riverside County,Central,0.2,0.25,0.15,0.21,4,1,0.75,1,0,2,0,0,7629,16,0.131588969,7.4526412,8,69,207,2,20,387
+Palo Alto Police Department,Police Department,Santa Clara County,Northern,0.76,0.73,0.91,0.65,0,0,0,0,0,0,0,0,5052,3,0.06955546,7.635031292,5,67,82,0,17,103
+Pasadena Police Department,Police Department,Los Angeles County,Southern,0.46,0.67,0.2,0.51,2,0.5,0,1,1,1,0,0,12753,34,0.110071082,7.895544513,1,169,215,0,16,125
+Pittsburg Police Department,Police Department,Contra Costa County,Northern,0.34,0.15,0.32,0.55,6,0.5,0.5,3,3,1,0,2,4870,30,0.219867003,7.417326051,7,101,110,0,21,122
+Placer County Sheriff's Department,Sheriff's Department,Placer County,Northern,0.37,0.41,0.19,0.51,9,0.78,0.56,3,2,1,1,2,12511,10,0.186585266,8.126502595,10,12,46,0,7,410
+Pleasanton Police Department,Police Department,Alameda County,Northern,0.63,0.56,0.59,0.75,2,1,0.5,1,0,0,1,0,3609,0,0.139651634,7.444407421,4,24,32,0,4,145
+Plumas County Sheriff's Office,Sheriff's Department,Plumas County,Northern,0.68,0.98,0.33,0.72,0,0,0,0,0,0,0,0,2234,5,0.139344811,6.936973329,2,1,3,1,10,238
+Pomona Police Department,Police Department,Los Angeles County,Southern,0.53,0.83,0.24,0.52,3,0.33,0,3,2,0,2,0,11362,105,0.26288771,7.731746251,0,56,216,0,3,69
+Redding Police Department,Police Department,Shasta County,Northern,0.42,0.5,0.32,0.45,9,0.56,0.22,6,4,3,1,4,24225,17,0.077475643,7.466560452,9,59,38,3,30,909
+Redlands Police Department,Police Department,San Bernardino County,Central,0.41,0.57,0.03,0.62,4,0.5,0.25,2,2,1,0,2,6215,11,0.185563981,7.407851166,7,68,291,1,26,405
+Redondo Beach Police Department,Police Department,Los Angeles County,Southern,0.47,0.46,0.46,0.47,2,0.5,0,2,1,3,0,1,5848,8,0.254481619,7.586832533,4,16,51,0,5,112
+Redwood City Police Department,Police Department,San Mateo County,Northern,0.52,0.49,0.54,0.51,4,0.5,0.25,2,2,0,2,1,5281,4,0.138621428,7.594203055,11,35,156,1,24,203
+Rialto Police Department,Police Department,San Bernardino County,Central,0.46,0.57,0.19,0.63,2,0,0,1,2,0,1,2,5956,23,0.17697997,7.503450452,0,95,262,1,1,62
+Richmond Police Department,Police Department,Contra Costa County,Northern,0.52,0.09,0.8,0.67,21,0.67,0.62,8,7,0,2,1,4864,94,0.209595988,7.826728099,0,43,19,1,2,10
+Riverside County Sheriff's Department,Sheriff's Department,Riverside County,Central,0.49,0.35,0.45,0.68,26,0.62,0.23,14,10,10,12,12,12084,109,0.150259415,8.841565644,37,271,1547,20,88,1502
+Riverside Police Department,Police Department,Riverside County,Central,0.31,0.07,0.14,0.71,40,0.93,0.75,6,3,3,2,2,24037,68,0.117542098,8.008689338,18,190,751,1,17,523
+Roseville Police Department,Police Department,Placer County,Northern,0.69,0.4,0.86,0.82,4,1,0.75,0,0,0,0,0,8322,5,0.068418788,7.58298113,14,44,94,4,16,540
+Sacramento County Sheriff's Department,Sheriff's Department,Sacramento County,Northern,0.47,0.59,0.15,0.65,18,0.61,0.22,9,7,6,10,3,35695,213,0.148695402,8.705829515,42,225,156,5,12,572
+Sacramento Police Department,Police Department,Sacramento County,Northern,0.47,0.38,0.44,0.58,20,0.85,0.65,6,3,3,3,2,43827,221,0.156627487,8.228526111,135,1096,595,0,51,1132
+Salinas Police Department,Police Department,Monterey County,Northern,0.69,0.64,0.84,0.58,3,1,0,0,0,0,2,1,12818,161,0.26591912,7.705064345,10,35,317,1,2,97
+San Benito County Sheriff's Department,Sheriff's Department,San Benito County,Northern,0.62,0.42,0.77,0.67,1,1,1,0,0,0,0,0,1431,4,0.162987412,7.158924269,6,1,128,1,0,51
+San Bernardino County Sheriff's Department,Sheriff's Department,San Bernardino County,Central,0.42,0.28,0.45,0.53,61,0.75,0.59,15,15,9,13,16,36339,106,0.145529334,8.787134659,53,598,1945,16,170,2427
+San Bernardino Police Department,Police Department,San Bernardino County,Central,0.39,0.19,0.5,0.49,53,0.77,0.68,17,12,11,1,3,23966,277,0.307202754,7.872415152,5,164,283,0,10,121
+San Diego County Sheriff's Department,Sheriff's Department,San Diego County,Southern,0.24,0.13,0.12,0.45,95,0.93,0.72,16,7,9,7,5,70858,89,0.163937807,8.892007173,130,293,1377,13,137,3091
+San Diego Police Department,Police Department,San Diego County,Southern,0.53,0.42,0.51,0.67,19,0.74,0.37,6,5,6,7,6,88373,228,0.134687804,8.683235654,268,1452,1377,1,113,2404
+San Francisco Police Department,Police Department,San Francisco County,Northern,0.42,0.34,0.23,0.69,17,0.53,0.35,8,8,3,6,5,42935,305,0.050659067,8.737315509,8,197,0,0,62,204
+San Joaquin County Sheriff's Department,Sheriff's Department,San Joaquin County,Northern,0.35,0.36,0.26,0.45,16,0.94,0.44,2,1,1,1,0,9845,47,0.104362021,7.843295918,6,18,70,0,2,77
+San Jose Police Department,Police Department,Santa Clara County,Northern,0.45,0.15,0.39,0.81,29,0.76,0.52,9,7,1,2,5,41963,207,0.15251838,8.556811906,152,200,991,1,26,418
+San Leandro Police Department,Police Department,Alameda County,Northern,0.55,0.77,0.42,0.45,1,1,0,0,0,0,1,0,6117,11,0.235874531,7.559510686,22,53,66,0,5,88
+San Luis Obispo County Sheriff's Department,Sheriff's Department,San Luis Obispo County,Northern,0.47,0.53,0.35,0.53,2,1,0.5,1,0,0,1,0,5654,9,0.145037357,8.410834057,5,12,137,4,3,372
+San Mateo County Sheriff's Department,Sheriff's Department,San Mateo County,Northern,0.4,0.09,0.54,0.58,15,1,0.87,3,0,0,0,0,9391,10,0.16781236,8.175933862,25,54,234,1,19,300
+San Mateo Police Department,Police Department,San Mateo County,Northern,0.82,0.89,0.83,0.74,0,0,0,0,0,0,0,0,6651,3,0.173957769,7.607274255,71,55,226,0,22,299
+Santa Ana Police Department,Police Department,Orange County,Southern,0.34,0.28,0.06,0.69,14,0.64,0.29,6,5,6,4,3,21219,108,0.235911822,8.100025992,37,47,1156,3,19,266
+Santa Barbara County Sheriff's Department,Sheriff's Department,Santa Barbara County,Southern,0.43,0.38,0.39,0.53,8,0.63,0.38,2,3,2,2,2,11543,23,0.105422231,8.779850355,13,67,579,12,40,764
+Santa Barbara Police Department,Police Department,Santa Barbara County,Southern,0.49,0.73,0.24,0.5,4,1,1,0,0,0,0,0,23596,5,0.122190069,7.618862832,10,102,733,0,46,1023
+Santa Clara County Sheriff's Department,Sheriff's Department,Santa Clara County,Northern,0.34,0.39,0.22,0.41,3,0.67,0.67,1,1,1,0,0,8303,15,0.125024402,7.883917003,33,83,332,6,19,278
+Santa Clara Police Department,Police Department,Santa Clara County,Northern,0.49,0.22,0.63,0.64,6,0.83,0.67,2,1,0,1,1,8846,7,0.076721024,7.831500083,71,85,292,0,32,331
+Santa Cruz County Sheriff's Department,Sheriff's Department,Santa Cruz County,Northern,0.67,0.59,0.51,0.92,3,0,0,0,0,1,0,1,7042,7,0.124554218,7.626158388,12,16,120,6,6,447
+Santa Cruz Police Department,Police Department,Santa Cruz County,Northern,0.65,0.86,0.81,0.28,1,1,0,0,0,1,0,0,12701,13,0.11830156,7.404311138,6,58,173,0,22,760
+Santa Maria Police Department,Police Department,Santa Barbara County,Southern,0.51,0.44,0.69,0.4,4,1,0.25,0,0,1,0,1,12058,37,0.149225721,7.432761325,5,16,306,1,2,118
+Santa Monica Police Department,Police Department,Los Angeles County,Southern,0.43,0.46,0.36,0.47,3,0.67,0.33,1,1,1,1,0,16775,20,0.128007522,7.960256213,1,92,62,2,14,139
+Santa Rosa Police Department,Police Department,Sonoma County,Northern,0.52,0.49,0.48,0.59,9,0.89,0.56,3,1,1,1,1,18727,22,0.143245659,7.757339271,16,108,257,0,29,719
+Shasta County Sheriff's Department,Sheriff's Department,Shasta County,Northern,0.77,0.94,0.81,0.55,0,0,0,0,0,0,0,0,1369,33,0.135171257,6.465075316,2,2,6,2,7,127
+Sierra County Sheriff's Department,Sheriff's Department,Sierra County,Northern,0.65,0.74,0.44,0.78,0,0,0,0,0,0,0,0,331,0,0.144648711,7.175800242,0,0,0,1,0,11
+Simi Valley Police Department,Police Department,Ventura County,Southern,0.6,0.59,0.36,0.87,2,0.5,0,1,1,0,0,0,7496,6,0.286503104,7.520095036,7,24,138,2,2,357
+Siskiyou Sheriff's Department,Sheriff's Department,Siskiyou County,Northern,0.74,0.65,0.82,0.75,1,1,0,0,0,0,0,0,2615,10,0.12809717,8.022740192,0,1,15,3,6,60
+Solano County Sheriff's Department,Sheriff's Department,Solano County,Northern,0.36,0.24,0.7,0.13,5,0.8,0.6,1,1,0,1,0,6658,8,0.151629335,8.229727928,13,78,22,5,4,107
+Sonoma County Sheriff's Department,Sheriff's Department,Sonoma County,Northern,0.48,0.5,0.35,0.6,3,1,0.67,3,0,1,2,0,10570,25,0.106042368,8.065045686,15,55,258,2,24,696
+South Gate Police Department,Police Department,Los Angeles County,Southern,0.48,0.09,0.8,0.54,9,0.56,0.56,6,4,1,4,0,7763,17,0.241277146,7.397781671,3,18,496,2,2,16
+South San Francisco Police Department,Police Department,San Mateo County,Northern,0.61,0.73,0.37,0.73,3,0.33,0,3,2,2,1,0,4168,4,0.158732975,7.430894698,55,31,135,1,28,175
+Stanislaus County Sheriff's Department,Sheriff's Department,Stanislaus County,Northern,0.38,0.41,0.36,0.38,6,1,0.5,0,0,0,0,2,7972,76,0.169558744,7.593668067,7,36,269,1,4,370
+Stockton Police Department,Police Department,San Joaquin County,Northern,0.52,0.2,0.75,0.62,21,0.81,0.52,5,4,6,2,1,20876,267,0.236253066,8.103860261,31,105,112,0,1,84
+Sunnyvale Police Department,Police Department,Santa Clara County,Northern,0.61,0.13,0.82,0.86,7,1,1,1,0,0,0,0,6582,9,0.082852622,7.596764723,22,54,208,1,9,176
+Sutter County Sheriff's Department/Coroner,Sheriff's Department,Sutter County,Northern,0.74,0.89,0.89,0.44,1,1,0,0,0,0,0,0,3364,5,0.128282968,7.242814938,10,3,52,5,11,126
+Tehama County Sheriff's Department,Sheriff's Department,Tehama County,Northern,0.36,0.12,0.44,0.51,8,0.75,0.5,2,2,0,0,4,2293,21,0.119843778,6.841134693,2,3,17,0,0,124
+Torrance Police Department,Police Department,Los Angeles County,Southern,0.54,0.46,0.23,0.91,5,1,0,2,0,2,1,3,6998,8,0.239211714,7.898956968,10,17,112,0,18,176
+Tracy Police Department,Police Department,San Joaquin County,Northern,0.83,0.94,0.77,0.77,0,0,0,0,0,0,0,0,6444,9,0.124116742,7.418823391,15,59,157,0,4,267
+Trinity County Sheriff's Department,Sheriff's Department,Trinity County,Northern,0.58,0.63,0.44,0.68,1,0,0,1,1,0,1,0,1780,11,0.130618442,8.05833108,1,1,1,0,2,40
+Tulare County Sheriff's Department,Sheriff's Department,Tulare County,Central,0.62,0.5,0.8,0.56,5,0.6,0.6,2,2,1,0,1,14235,98,0.137467974,7.335555039,39,32,1522,1,56,580
+Tuolumne Sheriff's Department,Sheriff's Department,Tuolumne County,Northern,0.73,0.9,0.8,0.49,0,0,0,0,0,0,0,0,5258,5,0.165600488,8.508547121,5,3,30,2,8,286
+Turlock Police Department,Police Department,Stanislaus County,Northern,0.48,0.86,0.28,0.29,0,0,0,0,0,0,0,0,9651,25,0.195606991,7.27941923,10,13,132,1,2,220
+Tustin Police Department,Police Department,Orange County,Southern,0.75,0.86,0.6,0.79,1,0,0,1,1,0,1,0,5901,7,0.187706354,7.39466277,31,23,329,4,13,297
+Union City Police Department,Police Department,Alameda County,Northern,0.46,0.54,0.03,0.81,1,0,0,1,1,1,0,1,3815,8,0.240655277,7.418346426,41,44,100,4,6,83
+Vacaville Police Department,Police Department,Solano County,Northern,0.33,0.27,0.19,0.54,13,0.92,0.77,2,1,0,3,0,10290,6,0.167411198,7.564207588,19,85,119,2,13,444
+Vallejo Police Department,Police Department,Solano County,Northern,0.51,0.45,0.56,0.51,6,0.67,0,3,2,2,4,2,7840,99,0.213587,7.630213574,14,135,46,1,7,107
+Ventura County Sheriff's Department,Sheriff's Department,Ventura County,Southern,0.53,0.79,0.4,0.41,3,0.67,0,1,1,0,1,3,16021,15,0.114251264,7.6069622,24,71,1813,29,28,2077
+Ventura Police Department,Police Department,Ventura County,Southern,0.51,0.58,0.5,0.44,4,1,0.75,1,0,0,0,0,16802,21,0.136821838,7.622567057,1,111,567,2,17,1153
+Visalia Police Department,Police Department,Tulare County,Central,0.55,0.43,0.62,0.61,10,0.7,0.4,4,3,3,1,2,18624,44,0.177473125,7.535020428,12,47,396,1,11,297
+Walnut Creek Police Department,Police Department,Contra Costa County,Northern,0.62,0.86,0.55,0.46,0,0,0,0,0,0,0,0,3753,5,0.23226622,7.43474222,11,28,19,0,7,228
+West Covina Police Department,Police Department,Los Angeles County,Southern,0.43,0.02,0.31,0.98,14,0.86,0.64,5,2,2,2,1,8052,9,0.352717388,7.519634972,11,23,267,0,11,89
+Westminster Police Department,Police Department,Orange County,Southern,0.68,0.92,0.55,0.55,0,0,0,0,0,1,0,0,5993,11,0.301861466,7.46106367,191,13,169,2,12,319
+Whittier Police Department,Police Department,Los Angeles County,Southern,0.53,0.22,0.62,0.75,9,0.89,0.44,0,1,1,1,1,6092,16,0.296133516,7.503519593,2,5,77,1,1,18
+Yolo County Sheriff's Department,Sheriff's Department,Yolo County,Northern,0.44,0.57,0.48,0.28,1,1,1,0,0,0,0,0,4740,5,0.181804809,7.518580553,25,63,168,2,18,365
+Yuba County Sheriff's Department,Sheriff's Department,Yuba County,Northern,0.58,0.56,0.68,0.51,5,0.4,0,3,3,1,3,2,5980,19,0.217658749,7.596751314,11,20,46,1,6,206

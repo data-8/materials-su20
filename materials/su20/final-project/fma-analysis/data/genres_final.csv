@@ -1,0 +1,164 @@
+genre_id,title,#tracks,parent
+1,Avant-Garde,8693,38
+2,International,5271,0
+3,Blues,1752,0
+4,Jazz,4126,0
+5,Classical,4106,0
+6,Novelty,914,38
+7,Comedy,217,20
+8,Old-Time / Historic,868,0
+9,Country,1987,0
+10,Pop,13845,0
+11,Disco,367,14
+12,Rock,32923,0
+13,Easy Listening,730,0
+14,Soul-RnB,1499,0
+15,Electronic,34413,0
+16,Sound Effects,304,6
+17,Folk,12706,0
+18,Soundtrack,5913,1235
+19,Funk,773,14
+20,Spoken,1876,0
+21,Hip-Hop,8389,0
+22,Audio Collage,774,38
+25,Punk,9261,12
+26,Post-Rock,1952,12
+27,Lo-Fi,6041,12
+30,Field Recordings,3237,38
+31,Metal,1498,12
+32,Noise,7268,38
+33,Psych-Folk,2267,17
+36,Krautrock,688,12
+37,Jazz: Vocal,97,4
+38,Experimental,38154,0
+41,Electroacoustic,6110,38
+42,Ambient Electronic,5723,15
+43,Radio Art,210,65
+45,Loud-Rock,2469,12
+46,Latin America,573,2
+47,Drone,2546,38
+49,Free-Folk,753,17
+53,Noise-Rock,2071,45
+58,Psych-Rock,2502,12
+63,Bluegrass,178,9
+64,Electro-Punk,563,25
+65,Radio,518,20
+66,Indie-Rock,5432,12
+70,Industrial,2230,12
+71,No Wave,600,25
+74,Free-Jazz,1531,4
+76,Experimental Pop,7144,10
+77,French,387,2
+79,Reggae - Dub,880,2
+81,Afrobeat,110,92
+83,Nerdcore,84,21
+85,Garage,3548,12
+86,Indian,216,2
+88,New Wave,517,12
+89,Post-Punk,1858,25
+90,Sludge,251,53
+92,African,329,2
+94,Freak-Folk,1289,17
+97,Jazz: Out,291,4
+98,Progressive,795,12
+100,Alternative Hip-Hop,740,21
+101,Death-Metal,196,31
+102,Middle East,176,2
+103,Singer-Songwriter,4162,17
+107,Ambient,7206,1235
+109,Hardcore,1419,25
+111,Power-Pop,1003,25
+113,Space-Rock,484,26
+117,Polka,62,2
+118,Balkan,608,2
+125,Unclassifiable,1511,38
+130,Europe,727,2
+137,Americana,994,9
+138,Spoken Weird,490,20
+166,Interview,122,65
+167,Black-Metal,152,31
+169,Rockabilly,128,9
+170,Easy Listening: Vocal,47,13
+171,Brazilian,234,2
+172,Asia-Far East,118,2
+173,N. Indian Traditional,4,86
+174,South Indian Traditional,17,86
+175,Bollywood,0,86
+176,Pacific,23,2
+177,Celtic,72,2
+178,Be-Bop,0,4
+179,Big Band/Swing,104,4
+180,British Folk,161,17
+181,Techno,2140,15
+182,House,1482,15
+183,Glitch,2809,15
+184,Minimal Electronic,1013,15
+185,Breakcore - Hard,511,15
+186,Sound Poetry,682,38
+187,20th Century Classical,292,5
+188,Poetry,301,20
+189,Talk Radio,26,65
+214,North African,40,92
+224,Sound Collage,1916,38
+232,Flamenco,47,2
+236,IDM,3472,15
+240,Chiptune,1231,297
+247,Musique Concrete,2957,38
+250,Improv,4261,38
+267,New Age,360,1235
+286,Trip-Hop,1751,15
+296,Dance,1414,15
+297,Chip Music,2208,15
+311,Lounge,440,13
+314,Goth,482,12
+322,Composed Music,630,5
+337,Drum & Bass,500,15
+359,Shoegaze,762,12
+360,Kid-Friendly,201,6
+361,Thrash,175,109
+362,Synth Pop,1835,10
+374,Banter,9,20
+377,Deep Funk,1,19
+378,Spoken Word,177,20
+400,Chill-out,823,182
+401,Bigbeat,189,181
+404,Surf,265,85
+428,Radio Theater,73,20
+439,Grindcore,314,31
+440,Rock Opera,116,12
+441,Opera,161,5
+442,Chamber Music,170,5
+443,Choral Music,216,5
+444,Symphony,25,5
+456,Minimalism,1392,38
+465,Musical Theater,18,20
+468,Dubstep,1144,15
+491,Skweee,78,468
+493,Western Swing,4,651
+495,Downtempo,2061,15
+502,Cumbia,67,46
+504,Latin,114,2
+514,Sound Art,1414,38
+524,Romany (Gypsy),112,130
+538,Compilation,338,18
+539,Rap,638,21
+542,Breakbeat,735,21
+567,Gospel,66,3
+580,Abstract Hip-Hop,202,21
+602,Reggae - Dancehall,94,79
+619,Spanish,115,130
+651,Country & Western,79,9
+659,Contemporary Classical,1239,5
+693,Wonky,56,21
+695,Jungle,258,15
+741,Klezmer,57,130
+763,Holiday,268,16
+808,Salsa,12,46
+810,Nu-Jazz,120,13
+811,Hip-Hop Beats,1192,21
+906,Modern Jazz,107,4
+1032,Turkish,60,102
+1060,Tango,30,46
+1156,Fado,26,130
+1193,Christmas,72,763
+1235,Instrumental,14938,0

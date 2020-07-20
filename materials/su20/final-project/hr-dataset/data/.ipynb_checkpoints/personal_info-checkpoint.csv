@@ -1,0 +1,200 @@
+,Employee_Name,EmpID,MarriedID,GenderID,State,CitizenDesc,HispanicLatino
+0,"Brown, Mia",1103024456.0,1.0,0.0,MA,US Citizen,No
+1,"LaRotonda, William  ",1106026572.0,0.0,1.0,MA,US Citizen,No
+2,"Steans, Tyrone  ",1302053333.0,0.0,1.0,MA,US Citizen,No
+4,"Singh, Nan ",1307059817.0,0.0,0.0,MA,US Citizen,No
+7,"Carter, Michelle ",1403065721.0,0.0,0.0,VT,US Citizen,No
+8,"Dietrich, Jenna  ",1408069481.0,0.0,0.0,WA,US Citizen,Yes
+9,"Digitale, Alfred",1306059197.0,1.0,1.0,NH,US Citizen,No
+10,"Friedman, Gerry",1204032843.0,0.0,1.0,NY,US Citizen,Yes
+12,"Gonzales, Ricardo",1411071481.0,1.0,1.0,ID,US Citizen,No
+14,"Leruth, Giovanni",1412071660.0,0.0,1.0,UT,US Citizen,No
+15,"Mullaney, Howard",1306057978.0,0.0,1.0,AL,US Citizen,No
+16,"Ozark, Travis",812011761.0,0.0,1.0,NC,US Citizen,No
+17,"Strong, Caitrin",1411071295.0,1.0,0.0,MT,US Citizen,No
+18,"Valentin,Jackie",1312063714.0,1.0,0.0,AZ,US Citizen,No
+19,"Villanueva, Noah",1111030503.0,0.0,1.0,ME,US Citizen,No
+20,"Buck, Edward",1504073313.0,1.0,1.0,MA,US Citizen,No
+21,"Costa, Latia",1409070567.0,0.0,0.0,CA,US Citizen,No
+22,"Fraval, Maruk ",1411071302.0,0.0,1.0,CT,US Citizen,No
+23,"Givens, Myriam",1203032099.0,0.0,0.0,IN,US Citizen,No
+24,Jeremy Prater,1001084890.0,1.0,1.0,NV,US Citizen,No
+25,"Khemmich, Bartholemew",1104025008.0,0.0,1.0,CO,US Citizen,No
+26,"Martins, Joseph",1209048771.0,0.0,1.0,TX,Eligible NonCitizen,No
+27,"McKinzie, Jac",1209049326.0,1.0,1.0,TX,US Citizen,No
+28,"Nguyen, Dheepa",1111030684.0,0.0,0.0,GA,US Citizen,No
+29,"Onque, Jasmine",1501072180.0,0.0,0.0,FL,US Citizen,Yes
+30,"Potts, Xana",1102024106.0,1.0,0.0,KY,US Citizen,No
+31,"Riordan, Michael",1502072711.0,0.0,1.0,ND,US Citizen,No
+32,"Terry, Sharlene ",1401064637.0,0.0,0.0,OR,US Citizen,No
+33,"Rachael, Maggie",1009919940.0,1.0,0.0,MA,US Citizen,No
+34,"Smith, Jason",1009919980.0,0.0,1.0,MA,US Citizen,No
+35,"Westinghouse, Matthew",1009919990.0,1.0,1.0,MA,US Citizen,No
+36,"Hubert, Robert",1009920000.0,1.0,1.0,MA,US Citizen,No
+37,"Champaigne, Brian",1009919920.0,1.0,1.0,MA,US Citizen,No
+38,"Zamora, Jennifer",1112030816.0,0.0,0.0,MA,US Citizen,No
+39,"Roper, Katie",1009919950.0,0.0,0.0,MA,US Citizen,No
+43,"Horton, Jayne",1105025718.0,0.0,0.0,MA,US Citizen,No
+44,"Johnson, Noelle ",1003018246.0,1.0,0.0,MA,US Citizen,No
+45,"Murray, Thomas",1406068403.0,0.0,1.0,TX,US Citizen,No
+47,"Petrowsky, Thelma",1108027853.0,1.0,0.0,MA,US Citizen,No
+48,"Roby, Lori ",1407068885.0,1.0,0.0,MA,US Citizen,No
+49,"Rogers, Ivan",1203032255.0,1.0,1.0,MA,US Citizen,No
+51,"Simard, Kramer",808010278.0,1.0,1.0,MA,US Citizen,Yes
+52,"Zhou, Julia",1110029732.0,0.0,0.0,MA,US Citizen,No
+53,"Bramante, Elisa",1006020066.0,0.0,0.0,MA,US Citizen,No
+54,"Houlihan, Debra",1009021646.0,1.0,0.0,RI,US Citizen,No
+55,"Foss, Jason",1192991000.0,0.0,1.0,MA,US Citizen,No
+56,"Roup,Simon",1106026933.0,0.0,1.0,MA,US Citizen,No
+58,"Monroe, Peter",1011022863.0,1.0,1.0,MA,Eligible NonCitizen,Yes
+59,"Dougall, Eric",1101023754.0,0.0,1.0,MA,US Citizen,No
+60,"Clayton, Rick",1301052902.0,0.0,1.0,MA,US Citizen,No
+61,"Galia, Lisa",1501072093.0,0.0,0.0,CT,US Citizen,No
+62,"Lindsay, Leonara ",602000312.0,0.0,0.0,CT,US Citizen,Yes
+63,"Soto, Julia ",1203032263.0,1.0,0.0,MA,US Citizen,No
+64,"Bacong, Alejandro ",1212052023.0,0.0,1.0,MA,US Citizen,No
+65,"Cisco, Anthony",1102024173.0,1.0,1.0,MA,US Citizen,Yes
+66,"Dolan, Linda",1101023540.0,1.0,0.0,MA,US Citizen,No
+67,"Gonzalez, Maria",1988299991.0,0.0,0.0,MA,US Citizen,Yes
+68,"Merlos, Carlos",1012023013.0,0.0,1.0,MA,US Citizen,No
+69,"Morway, Tanya",1001956578.0,1.0,0.0,MA,US Citizen,No
+70,"Shepard, Anita ",906014183.0,1.0,0.0,MA,US Citizen,No
+72,"Turpin, Jumil",1411071506.0,1.0,1.0,MA,Eligible NonCitizen,No
+73,"King, Janet",1001495124.0,1.0,0.0,MA,US Citizen,Yes
+74,"Albert, Michael  ",1501072311.0,0.0,1.0,MA,US Citizen,No
+76,"Butler, Webster  L",1110029990.0,0.0,1.0,MA,US Citizen,No
+77,"Dunn, Amy  ",1409070147.0,0.0,0.0,MA,US Citizen,No
+78,"Gray, Elijiah  ",1307060077.0,0.0,1.0,MA,US Citizen,No
+81,"Liebig, Ketsia",1103024679.0,1.0,0.0,MA,US Citizen,No
+82,"Miller, Brannon",1107027351.0,0.0,1.0,MA,US Citizen,yes
+84,"Spirea, Kelley",1102024149.0,1.0,0.0,MA,US Citizen,No
+85,"Stanley, David ",1000974650.0,0.0,1.0,MA,US Citizen,No
+86,"Sullivan, Kissy ",1405067298.0,1.0,0.0,MA,US Citizen,No
+88,"Anderson, Linda  ",1304055947.0,0.0,0.0,MA,US Citizen,No
+89,"Bernstein, Sean",1109029366.0,0.0,1.0,MA,US Citizen,Yes
+91,"Desimone, Carl ",1501072124.0,1.0,1.0,MA,US Citizen,No
+92,"Fernandes, Nilson  ",1302053339.0,1.0,1.0,MA,US Citizen,No
+93,"Girifalco, Evelyn",1204032927.0,0.0,0.0,MA,US Citizen,Yes
+94,"Harrison, Kara",1404066622.0,1.0,0.0,MA,US Citizen,No
+100,"Shields, Seffi",1205033102.0,1.0,0.0,MA,US Citizen,No
+103,"Bachiochi, Linda",1212051409.0,0.0,0.0,MA,US Citizen,No
+104,"Billis, Helen",1308060366.0,1.0,0.0,MA,US Citizen,No
+105,"Clukey, Elijian",1407069280.0,1.0,1.0,MA,US Citizen,No
+106,"DiNocco, Lily ",1209048696.0,1.0,0.0,MA,US Citizen,No
+107,"Fidelia,  Libby",1006020020.0,1.0,0.0,MA,US Citizen,No
+108,"Gonzalez, Cayo",1411071212.0,0.0,1.0,MA,US Citizen,No
+109,"Ivey, Rose ",1408069882.0,0.0,0.0,MA,US Citizen,No
+110,"Kretschmer, John",1311062610.0,1.0,1.0,MA,US Citizen,No
+111,"Mangal, Debbie",1308060754.0,1.0,0.0,MA,US Citizen,No
+112,"Ngodup, Shari ",1403066020.0,0.0,0.0,MA,US Citizen,No
+114,"Robinson, Elias",1011022887.0,0.0,1.0,MA,US Citizen,No
+115,"Sparks, Taylor  ",1410071137.0,1.0,0.0,MA,US Citizen,No
+116,"Tippett, Jeanette",1409070255.0,0.0,0.0,MA,US Citizen,No
+120,"Cockel, James",1599991009.0,0.0,1.0,MA,US Citizen,No
+121,"Dobrin, Denisa  S",1202031618.0,0.0,0.0,MA,US Citizen,Yes
+122,"Garcia, Raul",1309061015.0,0.0,1.0,MA,US Citizen,Yes
+123,"Gordon, David",1106026579.0,1.0,1.0,MA,US Citizen,No
+124,"Jackson, Maryellen",1201031438.0,0.0,0.0,MA,US Citizen,No
+125,"Langton, Enrico",1304055987.0,1.0,1.0,MA,US Citizen,No
+126,"Maurice, Shana",1401064327.0,1.0,0.0,MA,US Citizen,No
+127,"Nguyen, Lei-Ming",1203032357.0,0.0,0.0,MA,US Citizen,No
+128,"Pitt, Brad ",1001735072.0,0.0,1.0,MA,US Citizen,No
+129,"Rose, Ashley  ",710007555.0,0.0,0.0,MA,US Citizen,No
+131,"Trang, Mei",1012023152.0,0.0,0.0,MA,US Citizen,No
+132,"Zima, Colleen",1211051232.0,0.0,0.0,MA,US Citizen,No
+133,"Alagbe,Trina",1011022883.0,1.0,0.0,MA,US Citizen,No
+134,"Beatrice, Courtney ",1403066194.0,0.0,0.0,MA,Eligible NonCitizen,No
+135,"Chan, Lin",1305057282.0,0.0,0.0,MA,US Citizen,No
+136,"Darson, Jene'ya ",1001109612.0,1.0,0.0,MA,US Citizen,No
+139,"Harrell, Ludwick",1406068241.0,1.0,1.0,MA,US Citizen,No
+141,"Lydon, Allison",1101023353.0,1.0,0.0,MA,US Citizen,No
+142,"Motlagh,  Dawn",1102024121.0,0.0,0.0,MA,US Citizen,No
+145,"Sander, Kamrin",1302053362.0,1.0,0.0,MA,US Citizen,No
+146,"Sutwell, Barbara",1407069061.0,0.0,0.0,MA,Eligible NonCitizen,No
+148,"Barone, Francesco  A",1101023679.0,0.0,1.0,MA,US Citizen,No
+149,"Carey, Michael  ",1311063114.0,0.0,1.0,MA,US Citizen,No
+150,"Cornett, Lisa ",1403066069.0,1.0,0.0,MA,US Citizen,Yes
+151,"Engdahl, Jean",1007020403.0,0.0,1.0,MA,US Citizen,No
+152,"England, Rex",1101023612.0,1.0,1.0,MA,US Citizen,No
+153,"Gaul, Barbara",1105026041.0,0.0,0.0,MA,US Citizen,Yes
+155,"Jhaveri, Sneha  ",1412071713.0,0.0,0.0,MA,US Citizen,No
+158,"Osturnka, Adeel",1404066949.0,1.0,1.0,MA,US Citizen,No
+159,"Punjabhi, Louis  ",1401064562.0,0.0,1.0,MA,US Citizen,No
+160,"Saar-Beckles, Melinda",1410070998.0,0.0,0.0,MA,US Citizen,No
+161,"Stoica, Rick",1106026896.0,1.0,1.0,MA,US Citizen,No
+163,"Athwal, Sam",1301052124.0,0.0,1.0,MA,US Citizen,No
+164,"Biden, Lowan  M",1412071844.0,0.0,0.0,MA,US Citizen,No
+165,"Cierpiszewski, Caroline  ",1012023295.0,0.0,0.0,MA,Non-Citizen,No
+166,"Dickinson, Geoff ",706006285.0,0.0,1.0,MA,US Citizen,No
+167,"Ferreira, Violeta",803009012.0,0.0,0.0,MA,US Citizen,No
+168,"Gold, Shenice  ",1408069539.0,0.0,0.0,MA,US Citizen,Yes
+169,"Heitzman, Anthony",1002017900.0,0.0,1.0,MA,US Citizen,No
+170,"Knapp, Bradley  J",1304055683.0,0.0,1.0,MA,US Citizen,No
+171,"Mahoney, Lauren  ",1209049259.0,0.0,0.0,MA,US Citizen,No
+172,"Newman, Richard ",1302053044.0,1.0,1.0,MA,US Citizen,No
+173,"Peterson, Kayla ",1307059944.0,1.0,0.0,MA,US Citizen,No
+175,"Smith, Sade",1501071909.0,0.0,0.0,MA,US Citizen,No
+179,"Bugali, Josephine ",1408069635.0,0.0,0.0,MA,US Citizen,No
+182,"Garneau, Hamish",1104025414.0,0.0,1.0,MA,US Citizen,No
+183,"Goyal, Roxana",1312063675.0,1.0,0.0,MA,US Citizen,No
+184,"Jacobi, Hannah  ",1503072857.0,0.0,0.0,MA,US Citizen,No
+186,"Mckenna, Sandy",909015167.0,1.0,0.0,MA,US Citizen,No
+191,"Stanford,Barbara  M",1111030244.0,0.0,0.0,MA,US Citizen,No
+193,"Adinolfi, Wilson  K",1409070522.0,0.0,1.0,MA,US Citizen,No
+195,"Chace, Beatrice ",1208048062.0,0.0,0.0,MA,US Citizen,No
+196,"Crimmings,   Jean",1311063172.0,0.0,0.0,MA,US Citizen,No
+198,"Gentry, Mildred",1501072192.0,1.0,0.0,MA,US Citizen,No
+199,"Handschiegl, Joanne",1405067064.0,1.0,0.0,MA,US Citizen,No
+201,"Keatts, Kramer ",1301052462.0,0.0,1.0,MA,US Citizen,No
+203,"Medeiros, Jennifer",1109029256.0,0.0,0.0,MA,US Citizen,No
+204,"Owad, Clinton",1103024335.0,0.0,1.0,MA,US Citizen,No
+207,"Sullivan, Timothy",1201031310.0,1.0,1.0,MA,US Citizen,Yes
+208,"Von Massenbach, Anna",1106026474.0,0.0,0.0,MA,US Citizen,No
+224,"Burke, Joelle",1011022820.0,0.0,0.0,MA,US Citizen,No
+232,"Johnston, Yen",1306057810.0,0.0,0.0,MA,US Citizen,No
+234,"Petingill, Shana  ",1103024843.0,1.0,0.0,MA,Eligible NonCitizen,No
+237,"Good, Susan",1001549006.0,1.0,0.0,MA,US Citizen,No
+239,"Monkfish, Erasumus",1404066711.0,1.0,1.0,MA,US Citizen,No
+241,"Wolk, Hang  T",1205033180.0,0.0,0.0,MA,US Citizen,No
+243,"Faller, Megan ",1108028428.0,1.0,0.0,MA,US Citizen,No
+244,"Hunts, Julissa",1106026433.0,0.0,0.0,MA,US Citizen,No
+245,"Lunquist, Lisa",1001504432.0,0.0,0.0,MA,US Citizen,No
+246,"Nowlan, Kristie",1104025435.0,0.0,0.0,MA,US Citizen,No
+247,"Smith, Joe",1001970770.0,0.0,1.0,MA,US Citizen,No
+249,"Beak, Kimberly  ",1303054329.0,1.0,0.0,MA,US Citizen,No
+251,"Hankard, Earnest",1307059937.0,0.0,1.0,MA,US Citizen,Yes
+253,"Linden, Mathew",1405067565.0,1.0,1.0,MA,US Citizen,No
+254,"Moran, Patrick",1408069503.0,0.0,1.0,MA,US Citizen,No
+255,"Sahoo, Adil",1106026462.0,1.0,1.0,MA,US Citizen,No
+256,"Burkett, Benjamin ",1301052449.0,1.0,1.0,MA,US Citizen,No
+258,"Jeannite, Tayana",1008020942.0,0.0,0.0,MA,US Citizen,No
+259,"McCarthy, Brigit",1406067957.0,0.0,0.0,MA,US Citizen,No
+261,"Walker, Roger",1011022818.0,0.0,1.0,MA,US Citizen,No
+263,"Davis, Daniel",1201031274.0,0.0,1.0,MA,Eligible NonCitizen,No
+264,"Gosciminski, Phylicia  ",1108028351.0,0.0,0.0,MA,US Citizen,No
+266,"Monterro, Luisa",1001103149.0,0.0,0.0,MA,US Citizen,No
+268,"Woodson, Jason",1012023010.0,0.0,1.0,MA,US Citizen,No
+269,"Blount, Dianna",1403066125.0,0.0,0.0,MA,US Citizen,No
+270,"Erilus, Angela",1105025661.0,0.0,0.0,MA,US Citizen,No
+273,"Moumanil, Maliki ",1301052436.0,0.0,1.0,MA,US Citizen,No
+281,"Daneault, Lynn",1402065303.0,0.0,0.0,VT,US Citizen,No
+283,"Smith, John",1499902910.0,0.0,1.0,MA,US Citizen,No
+284,"Le, Binh",1009919930.0,0.0,0.0,MA,US Citizen,No
+285,"Navathe, Kurt",1009919960.0,0.0,1.0,MA,US Citizen,No
+286,"Wang, Charlie",1009919970.0,0.0,1.0,MA,US Citizen,No
+287,"LeBlanc, Brandon  R",1102024115.0,1.0,1.0,MA,US Citizen,No
+289,"Andreola, Colby",1107027358.0,0.0,0.0,MA,US Citizen,No
+290,"Carabbio, Judith",1101023577.0,0.0,0.0,MA,US Citizen,No
+291,"Del Bosque, Keyla",1203032498.0,0.0,0.0,MA,US Citizen,No
+293,"Martin, Sandra",1303054625.0,0.0,0.0,MA,US Citizen,No
+295,"Saada, Adell",1012023185.0,1.0,0.0,MA,US Citizen,No
+296,"Szabo, Andrew",1201031324.0,0.0,1.0,MA,US Citizen,No
+298,"Sweetwater, Alex",1001644719.0,0.0,1.0,MA,US Citizen,No
+299,"Foster-Baker, Amy",1201031308.0,1.0,0.0,MA,US Citizen,no
+300,"Boutwell, Bonalyn",1307060188.0,1.0,0.0,MA,US Citizen,No
+302,"Carr, Claudia  N",1010022337.0,0.0,0.0,MA,US Citizen,No
+305,"Daniele, Ann  ",1411071312.0,1.0,0.0,CT,US Citizen,No
+306,"Lajiri,  Jyoti",1108028108.0,1.0,1.0,MA,US Citizen,No
+307,"Semizoglou, Jeremiah  ",904013591.0,1.0,1.0,MA,US Citizen,No
+308,"South, Joe",1308060959.0,0.0,1.0,CT,US Citizen,No
+309,"Warfield, Sarah",1301052347.0,0.0,0.0,MA,US Citizen,No

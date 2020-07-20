@@ -1,0 +1,158 @@
+Agency Name,Type of Agency,County,disqualifies_complaints,restricts_delays_interrogations,gives_officers_unfair_access_to_information,limits_oversight_discipline,requires_city_pay_for_misconduct,erases_misconduct_records,requires_deescalation,bans_chokeholds_and_strangleholds,duty_to_intervene,requires_warning_before_shooting,restricts_shooting_at_moving_vehicles,requires_comprehensive_reporting,requires_exhaust_all_other_means_before_shooting,has_use_of_force_continuum
+Alameda County Sheriff's Department,Sheriff's Department,Alameda County,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+Alameda Police Department,Police Department,Alameda County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Alhambra Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Alpine County Sheriff's Department,Sheriff's Department,Alpine County,1,1,1,0,1,0,0,0,1,1,0,0,0,0
+Amador County Sheriff's Department,Sheriff's Department,Amador County,1,1,1,1,1,0,0,0,1,1,0,0,0,0
+Anaheim Police Department,Police Department,Orange County,1,1,1,1,1,0,0,0,1,1,0,0,0,0
+Antioch Police Department,Police Department,Contra Costa County,1,1,1,1,0,1,0,0,1,1,0,0,0,0
+Bakersfield Police Department,Police Department,Kern County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Berkeley Police Department,Police Department,Alameda County,1,1,1,1,0,0,0,1,1,1,0,0,0,1
+Beverly Hills Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,0,1,0,0,1,1
+Buena Park Police Department,Police Department,Orange County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Burbank Police Department,Police Department,Los Angeles County,1,1,1,0,1,0,1,0,1,1,0,1,0,0
+Butte County Sheriff's Department,Sheriff's Department,Butte County,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Calaveras County Sheriff's Department,Sheriff's Department,Calaveras County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Carlsbad Police Department,Police Department,San Diego County,1,1,1,0,1,1,0,0,1,1,0,0,0,0
+Chico Police Department,Police Department,Butte County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Chino Police Department,Police Department,San Bernardino County,1,1,1,1,0,1,0,0,1,1,0,0,0,0
+Chula Vista Police Department,Police Department,San Diego County,1,1,1,0,0,0,0,0,1,1,0,1,0,0
+Citrus Heights Police Department,Police Department,Sacramento County,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+Clovis Police Department,Police Department,Fresno County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Colusa County Sheriff's Department,Sheriff's Department,Colusa County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Concord Police Department,Police Department,Contra Costa County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Contra Costa County Sheriff's Department,Sheriff's Department,Contra Costa County,1,1,1,0,0,0,0,1,0,0,0,0,1,0
+Corona Police Department,Police Department,Riverside County,1,1,1,0,0,0,0,1,1,1,0,0,0,0
+Costa Mesa Police Department,Police Department,Orange County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Culver City Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Daly City Police Department,Police Department,San Mateo County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Del Norte County Sheriff's Department,Sheriff's Department,Del Norte County,1,1,1,1,1,0,0,0,1,1,0,0,0,0
+Downey Police Department,Police Department,Los Angeles County,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+El Cajon Police Department,Police Department,San Diego County,1,1,1,0,0,1,1,0,0,0,0,0,1,1
+El Dorado County Sheriff's Department,Sheriff's Department,El Dorado County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+El Monte Police Department,Police Department,Los Angeles County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Elk Grove Police Department,Police Department,Sacramento County,1,1,1,1,0,1,1,0,1,1,0,0,0,1
+Escondido Police Department,Police Department,San Diego County,1,1,1,1,0,0,0,0,0,1,0,1,0,0
+Fairfield Police Department,Police Department,Solano County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Fontana Police Department,Police Department,San Bernardino County,1,1,1,0,1,0,0,0,1,1,0,0,0,0
+Fremont Police Department,Police Department,Alameda County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Fresno County Sheriff's Department,Sheriff's Department,Fresno County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Fresno Police Department,Police Department,Fresno County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Fullerton Police Department,Police Department,Orange County,1,1,1,1,0,1,1,0,1,1,0,0,0,0
+Garden Grove Police Department,Police Department,Orange County,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+Gardena Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Glendale Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Glenn County Sheriff's Department,Sheriff's Department,Glenn County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Hawthorne Police Department,Police Department,Los Angeles County,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hayward Police Department,Police Department,Alameda County,1,1,1,1,1,0,0,0,1,1,0,1,0,0
+Humboldt County Sheriff's Department,Sheriff's Department,Humboldt County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Huntington Beach Police Department,Police Department,Orange County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Imperial County Sheriff's Department,Sheriff's Department,Imperial County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Inglewood Police Department,Police Department,Los Angeles County,1,1,1,1,0,0,1,0,1,1,0,0,0,0
+Inyo County Sheriff's Department,Sheriff's Department,Inyo County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Irvine Police Department,Police Department,Orange County,1,1,1,0,1,1,0,0,1,1,0,0,0,1
+Kern County Sheriff's Department,Sheriff's Department,Kern County,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Kings County Sheriff's Department,Sheriff's Department,Kings County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Lake Sheriff's Department,Sheriff's Department,Lake County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Lassen Sheriff's Department,Sheriff's Department,Lassen County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Livermore Police Department,Police Department,Alameda County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Long Beach Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,0,1,0,0,1,0
+Los Angeles County Sheriff's Department,Sheriff's Department,Los Angeles County,1,1,1,0,0,0,1,0,0,1,1,0,0,0
+Los Angeles Police Department,Police Department,Los Angeles County,1,1,1,1,1,0,1,1,1,0,1,0,0,1
+Madera Sheriff's Department,Sheriff's Department,Madera County,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Marin County Sheriff's Department,Sheriff's Department,Marin County,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+Mariposa County Sheriff's Department,Sheriff's Department,Mariposa County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Mendocino County Sheriff's Department,Sheriff's Department,Mendocino County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Merced County Sheriff's Department,Sheriff's Department,Merced County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Merced Police Department,Police Department,Merced County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Milpitas Police Department,Police Department,Santa Clara County,1,1,1,1,0,1,0,0,1,1,0,0,0,0
+Modesto Police Department,Police Department,Stanislaus County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Modoc County Sheriff's Department,Sheriff's Department,Modoc County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Mono County Sheriff's Department,Sheriff's Department,Mono County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Monterey County Sheriff's Department,Sheriff's Department,Monterey County,1,1,1,0,0,1,0,0,1,1,0,0,0,0
+Mountain View Police Department,Police Department,Santa Clara County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Murrieta Police Department,Police Department,Riverside County,1,1,1,1,0,1,0,0,1,1,0,1,0,0
+Napa County Sheriff's Department,Sheriff's Department,Napa County,1,1,1,1,1,0,0,0,1,1,0,0,0,0
+National City Police Department,Police Department,San Diego County,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+Nevada County Sheriff's Department,Sheriff's Department,Nevada County,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+Newport Beach Police Department,Police Department,Orange County,1,1,1,0,0,0,0,0,1,1,0,1,0,1
+Oakland Police Department,Police Department,Alameda County,1,1,1,1,1,1,1,0,1,0,0,1,1,1
+Oceanside Police Department,Police Department,San Diego County,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Ontario Police Department,Police Department,San Bernardino County,1,1,1,0,0,1,0,0,1,1,0,0,0,0
+Orange County Sheriff's Department,Sheriff's Department,Orange County,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+Orange Police Department,Police Department,Orange County,1,1,1,0,0,1,0,0,0,1,0,0,0,0
+Oxnard Police Department,Police Department,Ventura County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Palm Springs Police Department,Police Department,Riverside County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Palo Alto Police Department,Police Department,Santa Clara County,1,1,1,1,0,1,0,0,1,1,0,0,0,0
+Pasadena Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Pittsburg Police Department,Police Department,Contra Costa County,1,1,1,1,0,0,0,0,1,1,0,0,0,1
+Placer County Sheriff's Department,Sheriff's Department,Placer County,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+Pleasanton Police Department,Police Department,Alameda County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Plumas County Sheriff's Office,Sheriff's Department,Plumas County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Pomona Police Department,Police Department,Los Angeles County,1,1,1,1,0,1,0,0,1,1,0,0,0,0
+Redding Police Department,Police Department,Shasta County,1,1,1,1,0,0,0,0,1,1,0,0,0,1
+Redlands Police Department,Police Department,San Bernardino County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Redondo Beach Police Department,Police Department,Los Angeles County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Redwood City Police Department,Police Department,San Mateo County,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+Rialto Police Department,Police Department,San Bernardino County,1,1,1,1,1,1,0,0,0,0,0,0,0,0
+Richmond Police Department,Police Department,Contra Costa County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Riverside County Sheriff's Department,Sheriff's Department,Riverside County,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Riverside Police Department,Police Department,Riverside County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Roseville Police Department,Police Department,Placer County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Sacramento County Sheriff's Department,Sheriff's Department,Sacramento County,1,1,1,1,0,1,0,0,0,1,0,0,0,0
+Sacramento Police Department,Police Department,Sacramento County,1,1,1,1,1,1,1,0,1,1,0,0,0,0
+Salinas Police Department,Police Department,Monterey County,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+San Benito County Sheriff's Department,Sheriff's Department,San Benito County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+San Bernardino County Sheriff's Department,Sheriff's Department,San Bernardino County,1,1,1,1,0,1,0,0,0,1,0,0,0,0
+San Bernardino Police Department,Police Department,San Bernardino County,1,1,1,0,0,0,1,0,1,1,0,0,0,1
+San Diego County Sheriff's Department,Sheriff's Department,San Diego County,1,1,1,1,0,0,1,0,0,1,0,1,1,1
+San Diego Police Department,Police Department,San Diego County,1,1,1,1,0,0,0,0,0,1,0,0,1,1
+San Francisco Police Department,Police Department,San Francisco County,1,1,1,0,0,0,1,1,1,1,1,1,1,1
+San Joaquin County Sheriff's Department,Sheriff's Department,San Joaquin County,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+San Jose Police Department,Police Department,Santa Clara County,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+San Leandro Police Department,Police Department,Alameda County,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+San Luis Obispo County Sheriff's Department,Sheriff's Department,San Luis Obispo County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+San Mateo County Sheriff's Department,Sheriff's Department,San Mateo County,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+San Mateo Police Department,Police Department,San Mateo County,1,1,1,0,0,1,0,0,1,1,0,0,0,0
+Santa Ana Police Department,Police Department,Orange County,1,1,1,0,1,0,0,0,1,1,0,0,0,0
+Santa Barbara County Sheriff's Department,Sheriff's Department,Santa Barbara County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Santa Barbara Police Department,Police Department,Santa Barbara County,1,1,1,0,0,0,0,0,0,1,0,1,0,0
+Santa Clara County Sheriff's Department,Sheriff's Department,Santa Clara County,1,1,1,1,0,1,0,0,0,1,0,0,0,0
+Santa Clara Police Department,Police Department,Santa Clara County,1,1,1,0,1,0,0,0,1,1,0,0,0,0
+Santa Cruz County Sheriff's Department,Sheriff's Department,Santa Cruz County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Santa Cruz Police Department,Police Department,Santa Cruz County,1,1,1,1,0,1,0,0,0,1,0,0,0,0
+Santa Maria Police Department,Police Department,Santa Barbara County,1,1,1,0,1,0,0,0,0,1,0,0,0,0
+Santa Monica Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+Santa Rosa Police Department,Police Department,Sonoma County,1,1,1,1,0,0,0,0,1,0,0,0,0,0
+Shasta County Sheriff's Department,Sheriff's Department,Shasta County,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Sierra County Sheriff's Department,Sheriff's Department,Sierra County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Simi Valley Police Department,Police Department,Ventura County,1,1,1,0,0,1,0,0,1,1,0,0,0,0
+Siskiyou Sheriff's Department,Sheriff's Department,Siskiyou County,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Solano County Sheriff's Department,Sheriff's Department,Solano County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Sonoma County Sheriff's Department,Sheriff's Department,Sonoma County,1,1,1,1,0,0,0,0,0,1,0,0,0,0
+South Gate Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+South San Francisco Police Department,Police Department,San Mateo County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Stanislaus County Sheriff's Department,Sheriff's Department,Stanislaus County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Stockton Police Department,Police Department,San Joaquin County,1,1,1,1,0,0,1,0,1,1,0,0,1,0
+Sunnyvale Police Department,Police Department,Santa Clara County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Sutter County Sheriff's Department/Coroner,Sheriff's Department,Sutter County,1,1,1,0,0,0,0,0,0,0,1,0,0,1
+Tehama County Sheriff's Department,Sheriff's Department,Tehama County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Torrance Police Department,Police Department,Los Angeles County,1,1,1,1,0,0,1,0,1,1,0,0,0,0
+Tracy Police Department,Police Department,San Joaquin County,1,1,1,1,1,1,0,0,1,1,0,0,0,0
+Trinity County Sheriff's Department,Sheriff's Department,Trinity County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Tulare County Sheriff's Department,Sheriff's Department,Tulare County,1,1,1,0,0,1,0,0,1,1,0,0,0,0
+Tuolumne Sheriff's Department,Sheriff's Department,Tuolumne County,1,1,1,1,1,0,0,0,1,1,0,0,0,0
+Turlock Police Department,Police Department,Stanislaus County,1,1,1,1,0,1,0,0,1,1,0,0,0,0
+Tustin Police Department,Police Department,Orange County,1,1,1,0,1,1,0,0,1,1,0,0,0,0
+Union City Police Department,Police Department,Alameda County,1,1,1,1,0,0,1,0,1,1,0,0,0,0
+Vacaville Police Department,Police Department,Solano County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+Vallejo Police Department,Police Department,Solano County,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+Ventura County Sheriff's Department,Sheriff's Department,Ventura County,1,1,1,1,0,1,0,0,1,1,0,1,0,0
+Ventura Police Department,Police Department,Ventura County,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Visalia Police Department,Police Department,Tulare County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Walnut Creek Police Department,Police Department,Contra Costa County,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+West Covina Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,1,0,1,1,0,0,0,0
+Westminster Police Department,Police Department,Orange County,1,1,1,1,0,1,0,0,1,1,0,0,0,0
+Whittier Police Department,Police Department,Los Angeles County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Yolo County Sheriff's Department,Sheriff's Department,Yolo County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+Yuba County Sheriff's Department,Sheriff's Department,Yuba County,1,1,1,0,0,0,0,0,1,1,0,0,0,0
