@@ -1,0 +1,101 @@
+Country,Region,HDI,Continent,HDI Rating,Log Population (millions),Log GDP per Capita
+Moldova,Northern/Eastern Europe,0.68,Europe,Medium or Low,1.2556160374777743,7.586311527737038
+Gabon,Africa,0.67,Africa,Medium or Low,0.4885800148186709,9.391744841707654
+Kyrgyzstan,Middle East/Central Asia,0.65,Asia,Medium or Low,1.6992786164338898,7.017837629212249
+Bangladesh,Asia-Pacific,0.56,Asia,Medium or Low,5.04148775757902,6.754021179040095
+Romania,European Union,0.79,Europe,High or Very High,3.080073421987742,9.128472833644835
+Afghanistan,Middle East/Central Asia,0.46,Asia,Medium or Low,3.3951793093365925,6.421069269402627
+Slovakia,European Union,0.84,Europe,High or Very High,1.6956156086751528,9.803838473306994
+Morocco,Africa,0.62,Africa,Medium or Low,3.48185528467961,8.054976763064868
+South Africa,Africa,0.66,Africa,Medium or Low,3.9587157334201284,8.998367940702165
+Lithuania,European Union,0.83,Europe,High or Very High,1.1085626195212777,9.573155426793472
+Netherlands,European Union,0.92,Europe,High or Very High,2.8160073426073025,10.889115896467375
+Iraq,Middle East/Central Asia,0.65,Asia,Medium or Low,3.4898185733156835,8.673947336427894
+Pakistan,Asia-Pacific,0.53,Asia,Medium or Low,5.188279261339099,7.105457937814394
+New Zealand,Asia-Pacific,0.91,Asia,High or Very High,1.4951487660319727,10.531784163276376
+Azerbaijan,Middle East/Central Asia,0.75,Asia,High or Very High,2.231089091288976,8.868700405611007
+Haiti,Latin America,0.48,America,Medium or Low,2.3194422100604686,6.618912533209604
+Australia,Asia-Pacific,0.93,Asia,High or Very High,3.1376657694426577,11.106522917603153
+Bosnia and Herzegovina,Northern/Eastern Europe,0.73,Europe,High or Very High,1.3428648031925547,8.457198995839414
+Honduras,Latin America,0.61,America,Medium or Low,2.0719132752590443,7.727319228143697
+Israel,Middle East/Central Asia,0.89,Asia,High or Very High,2.033397603178429,10.425813789994136
+Spain,European Union,0.87,Europe,High or Very High,3.8450281366038674,10.373763019830553
+Indonesia,Asia-Pacific,0.68,Asia,Medium or Low,5.508821374315783,8.212983283678836
+Namibia,Africa,0.62,Africa,Medium or Low,0.8153648132841944,8.679448086059878
+Rwanda,Africa,0.48,Africa,Medium or Low,2.4388627112865935,6.44266754689
+Austria,European Union,0.88,Europe,High or Very High,2.135349173618132,10.844941030373079
+Trinidad and Tobago,Latin America,0.77,America,High or Very High,0.29266961396282004,9.81524632868569
+Gambia,Africa,0.44,Africa,Medium or Low,0.5822156198526637,6.226062248467308
+Saint Kitts and Nevis,Latin America,0.74,America,High or Very High,-2.995732273553991,9.469044098688943
+Timor-Leste,Asia-Pacific,0.6,Asia,Medium or Low,0.10436001532424286,8.550213955312222
+Eritrea,Africa,0.39,Africa,Medium or Low,1.81319474994812,6.08616090219682
+Libyan Arab Jamahiriya,Africa,0.74,Africa,High or Very High,1.8180767775454285,8.675807608215488
+Solomon Islands,Asia-Pacific,0.5,Asia,Medium or Low,-0.5978370007556204,7.407232755404527
+Zimbabwe,Africa,0.49,Africa,Medium or Low,2.6188546222977394,6.763780977064746
+Russian Federation,Northern/Eastern Europe,0.79,Europe,High or Very High,4.964032735372236,9.49703695899667
+Myanmar,Asia-Pacific,0.53,Asia,Medium or Low,3.966511190712216,7.018920912292289
+Armenia,Middle East/Central Asia,0.73,Asia,High or Very High,1.0885619528146082,8.139262507781842
+Bahamas,Latin America,0.78,America,High or Very High,-0.9942522733438669,10.02779591850765
+Viet Nam,Asia-Pacific,0.66,Asia,Medium or Low,4.508659285607248,7.334531679700015
+Canada,North America,0.91,America,High or Very High,3.5507661519843023,10.861791249443526
+China,Asia-Pacific,0.72,Asia,High or Very High,7.249953945405366,8.623522437702995
+United States of America,North America,0.91,America,High or Very High,5.760477818332746,10.814263103722173
+Burundi,Africa,0.39,Africa,Medium or Low,2.2874714551839976,5.622897745915737
+Swaziland,Africa,0.53,Africa,Medium or Low,0.20701416938432612,8.446229808317302
+Mozambique,Africa,0.41,Africa,Medium or Low,3.2268439945173775,6.289381563372166
+Philippines,Asia-Pacific,0.66,Asia,Medium or Low,4.571716809728872,7.77462044486187
+Georgia,Middle East/Central Asia,0.75,Asia,High or Very High,1.472472057360943,8.218975817049074
+Italy,European Union,0.87,Europe,High or Very High,4.109561528026961,10.556125189757863
+Papua New Guinea,Asia-Pacific,0.5,Asia,Medium or Low,1.969905654611529,7.534340559419862
+Comoros,Africa,0.5,Africa,Medium or Low,-0.3285040669720361,6.757211420082271
+Angola,Africa,0.52,Africa,Medium or Low,3.035914063186823,8.448038163925569
+Tonga,Asia-Pacific,0.72,Asia,High or Very High,-2.3025850929940455,8.373530651592256
+Algeria,Africa,0.73,Africa,High or Very High,3.6501386257975055,8.599799379794458
+Fiji,Asia-Pacific,0.72,Asia,High or Very High,-0.12783337150988489,8.343165941559104
+Montenegro,Northern/Eastern Europe,0.8,Europe,High or Very High,-0.4780358009429998,8.888977413155514
+Bhutan,Asia-Pacific,0.59,Asia,Medium or Low,-0.3011050927839216,7.781138509845015
+Oman,Middle East/Central Asia,0.79,Asia,High or Very High,1.1969481893889715,10.026713526271188
+Kenya,Africa,0.54,Africa,Medium or Low,3.7653774250866614,6.968012774592463
+Lesotho,Africa,0.48,Africa,Medium or Low,0.7178397931503168,7.199245092776746
+Belgium,European Union,0.89,Europe,High or Very High,2.403334996094189,10.780066090500119
+Sao Tome and Principe,Africa,0.55,Africa,Medium or Low,-1.6607312068216509,7.233116010848631
+Equatorial Guinea,Africa,0.58,Africa,Medium or Low,-0.3011050927839216,10.088472226749566
+Niger,Africa,0.34,Africa,Medium or Low,2.8425810940598164,6.018374212414839
+Bahrain,Middle East/Central Asia,0.82,Asia,High or Very High,0.27763173659827955,10.098190476218488
+Zambia,Africa,0.58,Africa,Medium or Low,2.644755350729896,7.462008140672773
+Mali,Africa,0.41,Africa,Medium or Low,2.6979998652487085,6.608297477317535
+Sweden,European Union,0.9,Europe,High or Very High,2.252343876557299,10.991744745111339
+Lao People's Democratic Republic,Asia-Pacific,0.56,Asia,Medium or Low,1.8946168546677629,7.119829793925439
+Cameroon,Africa,0.5,Africa,Medium or Low,3.077312260546414,7.147724481774321
+Saint Lucia,Latin America,0.73,America,High or Very High,-1.7147984280919266,8.953795144027943
+"Tanzania, United Republic of",Africa,0.51,Africa,Medium or Low,3.8666071418976635,6.640307113361166
+Slovenia,European Union,0.88,Europe,High or Very High,0.7275486072772777,10.128249793065795
+Costa Rica,Latin America,0.76,America,High or Very High,1.5686159179138452,9.10275070694334
+Ireland,European Union,0.91,Europe,High or Very High,1.5216989981260935,10.875281106291656
+Senegal,Africa,0.46,Africa,Medium or Low,2.6195832197798796,6.984040165651421
+Ecuador,Latin America,0.73,America,High or Very High,2.740194654428777,8.555043735547283
+Mauritania,Africa,0.5,Africa,Medium or Low,1.33500106673234,7.329349609020173
+Mongolia,Asia-Pacific,0.71,Asia,High or Very High,1.0296194171811581,8.225789535789907
+Sri Lanka,Asia-Pacific,0.75,Asia,High or Very High,3.0492730404820207,7.9655559897424055
+Greece,European Union,0.86,Europe,High or Very High,2.4087452888224363,10.165367084155017
+Malaysia,Asia-Pacific,0.77,Asia,High or Very High,3.3755376348815775,9.235286610937253
+Peru,Latin America,0.73,America,High or Very High,3.4008639927609177,8.645538911653095
+Kuwait,Middle East/Central Asia,0.82,Asia,High or Very High,1.1786549963416462,10.641381017508483
+Samoa,Asia-Pacific,0.7,Asia,Medium or Low,-1.6607312068216509,8.310697787449861
+Egypt,Africa,0.69,Africa,Medium or Low,4.390986376045354,7.982870323655406
+France,European Union,0.89,Europe,High or Very High,4.158570534521372,10.723934562297572
+Brazil,Latin America,0.75,America,High or Very High,5.29159482078721,9.490816544177635
+United Arab Emirates,Middle East/Central Asia,0.83,Asia,High or Very High,2.2198554453950496,10.616863740067753
+Guinea-Bissau,Africa,0.42,Africa,Medium or Low,0.5068176023684519,6.523929345977454
+Panama,Latin America,0.77,America,High or Very High,1.33500106673234,9.037268306445288
+Barbados,Latin America,0.79,America,High or Very High,-1.2729656758128873,9.662867167170585
+Czech Republic,European Union,0.87,Europe,High or Very High,2.3664984187376983,9.983974776782148
+Japan,Asia-Pacific,0.89,Asia,High or Very High,4.846153655430632,10.740769708504788
+Poland,European Union,0.84,Europe,High or Very High,3.6430972614588084,9.530211280242822
+Brunei Darussalam,Asia-Pacific,0.85,Asia,High or Very High,-0.8915981192837836,10.759973076782325
+Guinea,Africa,0.41,Africa,Medium or Low,2.4379897300002487,6.1292462692710545
+Luxembourg,European Union,0.89,Europe,High or Very High,-0.6539264674066639,11.649770112698072
+Mexico,Latin America,0.75,America,High or Very High,4.794550107149492,9.222654244097464
+Benin,Africa,0.48,Africa,Medium or Low,2.307572634505085,6.615837582258683
+Cuba,Latin America,0.77,America,High or Very High,2.422144328051685,8.551776244150643
+Bulgaria,European Union,0.78,Europe,High or Very High,1.9851308622085946,8.937912034187095
